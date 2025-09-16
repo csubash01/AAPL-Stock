@@ -1,6 +1,0 @@
-streamlit==1.26.0
-pandas
-numpy
-joblib
-vaderSentiment
-scikit-learn
