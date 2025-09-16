@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.join(BASE_DIR, "models", "model.pkl")
+MODEL_PATH = os.path.join(BASE_DIR,"model.pkl")
 PRICE_PATH = os.path.join(BASE_DIR, "data", "AAPL_price.csv")
 NEWS_PATH = os.path.join(BASE_DIR, "data", "AAPL_news_rss.csv")
 
